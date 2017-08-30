@@ -11,14 +11,15 @@
   "repository": "pastahito/electron-vue-webpack",
   "license": "WTFPL",
   "dependencies": {
-    "vue": "^2.0.1"
+    "vue": "^2.4.2"
   },
   "devDependencies": {
-    "css-loader": "^0.25.0",
-    "electron": "^1.4.3",
-    "electron-reload": "^1.0.2",
-    "file-loader": "^0.9.0",
-    "vue-loader": "^9.5.1",
-    "webpack": "^2.1.0-beta.22"
+    "css-loader": "^0.28.6",
+    "electron": "^1.7.6",
+    "electron-reload": "^1.2.1",
+    "file-loader": "^0.11.2",
+    "vue-loader": "^13.0.4",
+    "vue-template-compiler": "^2.4.2",
+    "webpack": "^3.5.5"
   }
 }
